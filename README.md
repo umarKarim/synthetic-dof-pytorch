@@ -26,18 +26,14 @@ The result is stored in *output_dir*.
 
 ## Some Results
 ### Pixel 4 result
-<img src="https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/test_ims/eraser_input.jpg"
-    alt="Input" title="Input" width="150" height="100">
-<img src="https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/test_ims/eraser_depth.png"
-    alt="Depth map" title="Input" width="150" height="100">
-<img src="https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/output_results/eraser_output.png" alt="Output" title="Input" width="150" height="100">
+![Input](https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/test_ims/eraser_input.jpg#thumbnail)
+![Depth map](https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/test_ims/eraser_depth.png#thumbnail)
+![Result](https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/output_results/eraser_output.png#thumbnail)
 
 ### Random image result
-<img src="https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/test_ims/rocks.jpg"
-    alt="Input" title="Input" width="150" height="100">
-<img src="https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/depthmaps/rocks_depth.png"
-    alt="Depth map" title="Input" width="150" height="100">
-<img src="https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/output_results/rocks_output.png" alt="Output" title="Input" width="150" height="100">
+![Input](https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/test_ims/rocks.jpg#thumbnail)
+![Depth map](https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/depthmaps/rocks_depth.png#thumbnail)
+![Result](https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/output_results/rocks_output.png#thumbnail)
 
 
 

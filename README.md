@@ -26,14 +26,19 @@ The result is stored in *output_dir*.
 
 ## Some Results
 ### Pixel 4 result
-![Input](https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/test_ims/eraser_input.jpg)
-![Depth](https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/test_ims/eraser_depth.png)
-![Result](https://github.com/umarKarim/face-det-lm-rec/tree/master/output_results/eraser_output.png)
+<img src="https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/test_ims/eraser_input.jpg"
+    alt="Input" title="Input" width="150" height="100">
+<img src="https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/test_ims/eraser_depth.png"
+    alt="Input" title="Input" width="150" height="100">
+<img src="https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/output_results/eraser_output.png" alt="Input" title="Input" width="150" height="100">
 
 ### Random image result
-![Input](https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/test_ims/rocks.jpg)
-![Depth](https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/depthmaps/rocks_depth.png)
-![Result](https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/output_results/rocks_output.png)
+<img src="https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/test_ims/rocks.jpg"
+    alt="Input" title="Input" width="150" height="100">
+<img src="https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/depthmaps/rocks_depth.png"
+    alt="Input" title="Input" width="150" height="100">
+<img src="https://github.com/umarKarim/synthetic-dof-pytorch/tree/master/output_results/rocks_output.png" alt="Input" title="Input" width="150" height="100">
+
 
 
 

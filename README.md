@@ -31,7 +31,7 @@ The result is stored in *output_dir*.
 ![Result](https://github.com/umarKarim/synthetic-dof-pytorch/blob/master/output_results/eraser_output.png#thumbnail)
 
 ### Random image result
-![Input](https://github.com/umarKarim/synthetic-dof-pytorch/blot/master/test_ims/rocks.jpg#thumbnail)
+![Input](https://github.com/umarKarim/synthetic-dof-pytorch/blob/master/test_ims/rocks.jpg#thumbnail)
 ![Depth map](https://github.com/umarKarim/synthetic-dof-pytorch/blob/master/depthmaps/rocks_depth.png#thumbnail)
 ![Result](https://github.com/umarKarim/synthetic-dof-pytorch/blob/master/output_results/rocks_output.png#thumbnail)
 
